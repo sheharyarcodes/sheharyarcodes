@@ -3,7 +3,7 @@
 Hi 👋, I'm Sheharyar Khalid, a passionate Frontend Developer with a strong background in crafting responsive and dynamic user interfaces using React. My journey in the world of web development has equipped me with the skills to turn design concepts into reality and create engaging, user-centric applications.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-fff?style=for-the-badge&logo=&logoColor=black)]()
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheharyarcodes)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk11111)
 [![twitter](https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/sheharyarcodes)
 [![Stack Overflow](https://img.shields.io/badge/stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23325205)
 
